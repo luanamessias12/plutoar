@@ -30,25 +30,25 @@ export default function Home() {
               href="#home"
               className="font-medium text-stone-700 hover:text-fuchsia-500 transition-colors"
             >
-              Preço
+              Inicio
             </Link>
 
             <Link
-              href="#home"
+              href="/site/educador"
               className="font-medium text-stone-700 hover:text-fuchsia-500 transition-colors"
             >
-              Sobre
+              Educador
             </Link>
 
             <Link
-              href="#home"
+              href="/site/contato"
               className="font-medium text-stone-700 hover:text-fuchsia-500 transition-colors"
             >
-              Blog
+              Contato
             </Link>
 
             <Link
-              href="#home"
+              href="/site/comecar"
               className="bg-fuchsia-500 px-5 py-3 font-medium text-white transition-colors hover:bg-fuchsia-700 rounded-full"
             >
               Começar
@@ -72,7 +72,7 @@ export default function Home() {
         </div>
 
                     <Link
-              href="#home"
+              href="/site/comecar"
               className="bg-fuchsia-500 px-5 py-3 font-medium text-white transition-colors hover:bg-fuchsia-700 rounded-full w-fit mx-auto"
             >
               Comece Agora
